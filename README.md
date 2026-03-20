@@ -1,4 +1,3 @@
-# PayGuard-AI
 # 🚀 PayGuard-AI
 
 ### AI-Powered Parametric Insurance for India’s Gig Workers
