@@ -24,7 +24,7 @@ We focus on **food delivery partners (Zomato/Swiggy)** operating in urban areas.
 
 ---
 
-## 💡 Our Solution: Adaptive Income Shield AI
+## 💡 Our Solution: PayGuard AI
 
 We introduce a **fully automated income protection system** powered by AI and real-time data.
 
